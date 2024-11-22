@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OsvaldoFurtado 
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Data Science Web app
+- 👀 I’m interested in Web Development and Data Engineering
+- 💞️ I’m looking to collaborate on Data Engineering projects
 - 📫 How to reach me: schurings@hotmail.com 
 
 <!---
