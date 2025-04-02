@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OsvaldoFurtado 
 - 👀 I’m interested in Web Development and Data Engineering
-- 💞️ I’m looking to collaborate on Data Engineering projects
+- 💞️ I’m looking to collaborate on Data AI ML Engineering projects
 - 📫 How to reach me: schurings@hotmail.com 
 
 <!---
